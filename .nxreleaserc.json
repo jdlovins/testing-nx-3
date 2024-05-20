@@ -1,0 +1,9 @@
+{
+  "changelog": true,
+  "npm": true,
+  "github": true,
+  "repositoryUrl": "git@github.com:jdlovins/testing-nx-3.git",
+  "branches": [
+    "master"
+  ]
+}
